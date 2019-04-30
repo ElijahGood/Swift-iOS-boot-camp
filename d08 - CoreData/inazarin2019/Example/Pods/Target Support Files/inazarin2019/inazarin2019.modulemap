@@ -1,0 +1,6 @@
+framework module inazarin2019 {
+  umbrella header "inazarin2019-umbrella.h"
+
+  export *
+  module * { export * }
+}

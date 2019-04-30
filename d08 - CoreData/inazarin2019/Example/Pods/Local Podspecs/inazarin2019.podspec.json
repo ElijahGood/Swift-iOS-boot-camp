@@ -1,0 +1,25 @@
+{
+  "name": "inazarin2019",
+  "version": "0.1.0",
+  "summary": "iOS Swift day08",
+  "swift_versions": "4.0.3",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ElijahGood/inazarin2019",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ElijahGood": "nazarina.ilya@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ElijahGood/inazarin2019.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "inazarin2019/Classes/**/*",
+  "resources": "inazarin2019/Assets/*.xcdatamodeld",
+  "frameworks": "CoreData"
+}

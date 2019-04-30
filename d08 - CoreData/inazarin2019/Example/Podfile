@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'inazarin2019_Example' do
+  pod 'inazarin2019', :path => '../'
+
+  target 'inazarin2019_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
